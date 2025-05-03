@@ -1,4 +1,4 @@
-module go-bookstore
+module github.com/Mr-man7352/go-bookstore
 
 go 1.24.2
 
